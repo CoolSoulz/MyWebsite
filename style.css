@@ -1,0 +1,32 @@
+body {
+    background-image: url("/images/background.jpg")
+}
+h1 {
+    color: #29ba48;
+    font-family: "Comic Sans MS", serif;
+    font-size: 25px;
+    font-weight: lighter
+}
+h2 {
+    color: gold;
+    font-family: "Fira Code", serif
+    font-size: 20px;
+    font-weight: lighter
+}
+p {
+    color: darkred;
+    font-family: Comic Sans MS, serif;
+    font-size: 30px
+}
+a {
+    color: azure;
+    font-family: "Comic Sans MS", serif;
+    font-size: 20px;
+    text-decoration: none
+}
+h3 {
+    color: cornflowerblue;
+    font-family: "JetBrains Mono", sans-serif;
+    font-size: 20px;
+    text-decoration-thickness: auto;
+}
