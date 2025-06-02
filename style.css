@@ -6,6 +6,7 @@ h1 {
     font-family: "Comic Sans MS", serif;
     font-size: 25px;
     font-weight: lighter
+    text-align: center;
 }
 h2 {
     color: gold;
